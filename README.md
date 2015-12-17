@@ -15,7 +15,7 @@ Packt Publishing. Check out our [Live Recipe Site](http://nickqizhu.github.io/d3
     <li><a href="http://shop.oreilly.com/product/9781782162162.do">O'Reilly</a>&nbsp;</li>
 </ul>
 
-<h2><a href="https://github.com/data-journalism/d3-cookbook">Source code</a></h2>
+<h2><a href="https://data-journalism.github.io/d3-cookbook">Source code</a></h2>
 
 <h3>Chapter 1: Getting Started</h3>
 <ul>
